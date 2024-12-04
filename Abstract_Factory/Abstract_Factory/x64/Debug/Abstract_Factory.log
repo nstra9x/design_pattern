@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\tra.nguyen\Documents\Projects\Abstract_Factory\main.cpp(64,1): warning C4715: 'getCar': not all control paths return a value
+  Abstract_Factory.vcxproj -> C:\Users\tra.nguyen\Documents\Projects\Abstract_Factory\x64\Debug\Abstract_Factory.exe
